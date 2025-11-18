@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "A": "./outputs/hero_variant_A.png",
+    "B": "./outputs/hero_variant_B.png"
+  },
+  "chosen": "A",
+  "hero_path": "outputs/hero.png",
+  "alt_texts": [
+    "Sunlit living room with pastel pink and sage walls",
+    "Cozy urban living room in muted blush and soft green"
+  ],
+  "credit": "Image generated — credit placeholder"
+}

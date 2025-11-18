@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "A": "hero_variant_A.png",
+    "B": "hero_variant_B.png"
+  },
+  "chosen": "A",
+  "hero_path": "outputs/hero.png",
+  "alt_texts": [
+    "A modern, sunlit living room featuring soft pastel walls in muted blush and sage green, with natural wood furniture, potted indoor plants, linen textiles, and warm morning light creating a serene, sophisticated atmosphere.",
+    "A contemporary urban apartment interior with gentle pastel-coloured walls in soft lavender and cream, showcasing minimalist furniture, geometric artwork, and natural textures that create a calm, refined environment."
+  ],
+  "credit": "Generated hero image showcasing pastel design concepts",
+  "palette_info": {
+    "A": "Warm blush transitioning to cool sage - balanced and sophisticated",
+    "B": "Serene sky blue with soft lavender undertones - calming and modern"
+  }
+}

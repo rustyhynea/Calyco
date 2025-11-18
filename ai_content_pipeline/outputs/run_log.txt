@@ -1,0 +1,16 @@
+[2025-11-18T11:14:42.615030Z] Run: full pipeline start
+[2025-11-18T11:14:51.491533Z] Starting trends collection for: ['best pastel wall colors 2025', 'home paint trends 2025', 'urban home décor trends']
+[2025-11-18T11:14:53.048956Z] pytrends error: The request failed: Google returned a response with code 429
+[2025-11-18T11:14:53.059005Z] Saved trend summary to /workspaces/Calyco/ai_content_pipeline/outputs/trend_summary.json
+[2025-11-18T11:14:53.059237Z] Starting feed fetch for: []
+[2025-11-18T11:14:53.059560Z] Saved competitor feeds to /workspaces/Calyco/ai_content_pipeline/outputs/competitor_feeds.json
+[2025-11-18T11:14:54.683308Z] Starting article generation
+[2025-11-18T11:14:54.684784Z] Article generated: 787 words, title: "Nature-Inspired Pastels: Transform Your Urban Home in 2025"
+[2025-11-18T11:14:55.626409Z] Starting image generation (high-quality variants)
+[2025-11-18T11:14:55.706973Z] Generated image variant A (Blush & Sage) via gradient
+[2025-11-18T11:14:55.794510Z] Generated image variant B (Sky & Lavender) via gradient
+[2025-11-18T11:14:55.795014Z] Saved hero.png (variant A) and image metadata
+[2025-11-18T11:14:55.798177Z] Saved QA report to outputs/qa_report.json
+[2025-11-18T11:14:55.798498Z] Saved image ranking to outputs/image_ranking.json
+[2025-11-18T11:14:55.799251Z] Saved final QA to outputs/final_qa.json
+[2025-11-18T11:14:55.799318Z] Run: full pipeline end

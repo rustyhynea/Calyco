@@ -1,0 +1,7 @@
+flask>=2.0
+requests>=2.0
+beautifulsoup4>=4.9
+feedparser>=6.0
+pytrends>=4.8
+openai>=0.27
+Pillow>=9.0
